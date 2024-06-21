@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\bin\Debug\Календарь.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\bin\Debug\Календарь.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\bin\Debug\Календарь.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\obj\Debug\Календарь.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\obj\Debug\Календарь.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\obj\Debug\Календарь.Form1.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\obj\Debug\Календарь.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\obj\Debug\Календарь.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\obj\Debug\Календарь.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\obj\Debug\Календарь.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Календарь\obj\Debug\Календарь.pdb

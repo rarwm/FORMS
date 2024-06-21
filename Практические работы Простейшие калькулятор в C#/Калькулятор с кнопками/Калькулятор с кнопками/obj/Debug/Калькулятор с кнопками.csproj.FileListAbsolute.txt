@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\bin\Debug\Калькулятор с кнопками.exe.config
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\bin\Debug\Калькулятор с кнопками.exe
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\bin\Debug\Калькулятор с кнопками.pdb
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\obj\Debug\Калькулятор с кнопками.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\obj\Debug\Калькулятор с кнопками.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\obj\Debug\Калькулятор_с_кнопками.Form1.resources
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\obj\Debug\Калькулятор_с_кнопками.Properties.Resources.resources
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\obj\Debug\Калькулятор с кнопками.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\obj\Debug\Калькулятор с кнопками.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\obj\Debug\Калькулятор с кнопками.exe
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с кнопками\Калькулятор с кнопками\obj\Debug\Калькулятор с кнопками.pdb

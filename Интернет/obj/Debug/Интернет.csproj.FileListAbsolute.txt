@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\bin\Debug\Интернет.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\bin\Debug\Интернет.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\bin\Debug\Интернет.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\obj\Debug\Интернет.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\obj\Debug\Интернет.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\obj\Debug\Интернет.Form1.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\obj\Debug\Интернет.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\obj\Debug\Интернет.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\obj\Debug\Интернет.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\obj\Debug\Интернет.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Интернет\obj\Debug\Интернет.pdb

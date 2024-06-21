@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\bin\Debug\Калькулятор с радиокнопками.exe.config
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\bin\Debug\Калькулятор с радиокнопками.exe
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\bin\Debug\Калькулятор с радиокнопками.pdb
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\obj\Debug\Калькулятор с радиокнопками.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\obj\Debug\Калькулятор с радиокнопками.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\obj\Debug\Калькулятор_с_радиокнопками.Form1.resources
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\obj\Debug\Калькулятор_с_радиокнопками.Properties.Resources.resources
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\obj\Debug\Калькулятор с радиокнопками.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\obj\Debug\Калькулятор с радиокнопками.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\obj\Debug\Калькулятор с радиокнопками.exe
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с радиокнопками\Калькулятор с радиокнопками\obj\Debug\Калькулятор с радиокнопками.pdb

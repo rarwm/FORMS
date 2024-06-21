@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\bin\Debug\База данных.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\bin\Debug\База данных.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\bin\Debug\База данных.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\obj\Debug\База данных.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\obj\Debug\База данных.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\obj\Debug\База_данных.Form1.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\obj\Debug\База_данных.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\obj\Debug\База данных.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\obj\Debug\База данных.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\obj\Debug\База данных.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\База данных\obj\Debug\База данных.pdb

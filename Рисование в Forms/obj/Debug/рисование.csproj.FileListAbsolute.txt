@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\obj\Debug\рисование.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\obj\Debug\рисование.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\obj\Debug\рисование.Form1.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\obj\Debug\рисование.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\obj\Debug\рисование.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\obj\Debug\рисование.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\bin\Debug\рисование.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\bin\Debug\рисование.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\bin\Debug\рисование.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\obj\Debug\рисование.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\рисование\obj\Debug\рисование.pdb

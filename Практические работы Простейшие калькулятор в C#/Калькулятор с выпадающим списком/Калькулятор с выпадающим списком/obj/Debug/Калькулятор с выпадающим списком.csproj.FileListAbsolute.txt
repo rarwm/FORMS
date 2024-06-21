@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\bin\Debug\Калькулятор с выпадающим списком.exe.config
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\bin\Debug\Калькулятор с выпадающим списком.exe
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\bin\Debug\Калькулятор с выпадающим списком.pdb
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\obj\Debug\Калькулятор с выпадающим списком.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\obj\Debug\Калькулятор с выпадающим списком.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\obj\Debug\Калькулятор_с_выпадающим_списком.Form1.resources
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\obj\Debug\Калькулятор_с_выпадающим_списком.Properties.Resources.resources
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\obj\Debug\Калькулятор с выпадающим списком.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\obj\Debug\Калькулятор с выпадающим списком.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\obj\Debug\Калькулятор с выпадающим списком.exe
+C:\Users\User\Desktop\Папки\Studio\Калькулятор с выпадающим списком\Калькулятор с выпадающим списком\obj\Debug\Калькулятор с выпадающим списком.pdb

@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\bin\Debug\Тараканьи бега.exe.config
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\bin\Debug\Тараканьи бега.exe
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\bin\Debug\Тараканьи бега.pdb
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\obj\Debug\Тараканьи бега.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\obj\Debug\Тараканьи бега.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\obj\Debug\Тараканьи_бега.Form1.resources
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\obj\Debug\Тараканьи_бега.Properties.Resources.resources
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\obj\Debug\Тараканьи бега.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\obj\Debug\Тараканьи бега.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\obj\Debug\Тараканьи бега.exe
+C:\Users\user\Desktop\Папка Рабочий стол\Тараканьи бега\obj\Debug\Тараканьи бега.pdb
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\bin\Debug\Тараканьи бега.exe.config
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\bin\Debug\Тараканьи бега.exe
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\bin\Debug\Тараканьи бега.pdb
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\obj\Debug\Тараканьи бега.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\obj\Debug\Тараканьи бега.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\obj\Debug\Тараканьи_бега.Form1.resources
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\obj\Debug\Тараканьи_бега.Properties.Resources.resources
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\obj\Debug\Тараканьи бега.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\obj\Debug\Тараканьи бега.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\obj\Debug\Тараканьи бега.exe
+C:\Users\User\Desktop\Папки\Studio\C#\Тараканьи бега\obj\Debug\Тараканьи бега.pdb

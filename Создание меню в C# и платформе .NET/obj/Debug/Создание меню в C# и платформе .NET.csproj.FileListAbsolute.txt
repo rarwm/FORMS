@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\bin\Debug\Создание_меню_в_C__и_платформе.NET.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\bin\Debug\Создание_меню_в_C__и_платформе.NET.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\bin\Debug\Создание_меню_в_C__и_платформе.NET.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\obj\Debug\Создание меню в C# и платформе .NET.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\obj\Debug\Создание меню в C# и платформе .NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\obj\Debug\Создание_меню_в_C__и_платформе.NET.Form1.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\obj\Debug\Создание_меню_в_C__и_платформе.NET.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\obj\Debug\Создание меню в C# и платформе .NET.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\obj\Debug\Создание меню в C# и платформе .NET.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\obj\Debug\Создание_меню_в_C__и_платформе.NET.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Создание меню в C# и платформе .NET\obj\Debug\Создание_меню_в_C__и_платформе.NET.pdb

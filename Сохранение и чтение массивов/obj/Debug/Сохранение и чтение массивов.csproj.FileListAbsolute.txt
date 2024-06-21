@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\bin\Debug\Сохранение и чтение массивов.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\bin\Debug\Сохранение и чтение массивов.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\bin\Debug\Сохранение и чтение массивов.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\obj\Debug\Сохранение и чтение массивов.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\obj\Debug\Сохранение и чтение массивов.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\obj\Debug\Сохранение_и_чтение_массивов.Form1.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\obj\Debug\Сохранение_и_чтение_массивов.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\obj\Debug\Сохранение и чтение массивов.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\obj\Debug\Сохранение и чтение массивов.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\obj\Debug\Сохранение и чтение массивов.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Сохранение и чтение массивов\obj\Debug\Сохранение и чтение массивов.pdb

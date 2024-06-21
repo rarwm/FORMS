@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\bin\Debug\Решение квадратного уравнения.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\bin\Debug\Решение квадратного уравнения.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\bin\Debug\Решение квадратного уравнения.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\obj\Debug\Решение квадратного уравнения.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\obj\Debug\Решение квадратного уравнения.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\obj\Debug\Решение_квадратного_уравнения.Form1.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\obj\Debug\Решение_квадратного_уравнения.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\obj\Debug\Решение квадратного уравнения.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\obj\Debug\Решение квадратного уравнения.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\obj\Debug\Решение квадратного уравнения.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Решение квадратного уравнения\obj\Debug\Решение квадратного уравнения.pdb

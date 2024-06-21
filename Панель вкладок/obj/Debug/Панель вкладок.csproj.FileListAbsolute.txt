@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\bin\Debug\Панель вкладок.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\bin\Debug\Панель вкладок.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\bin\Debug\Панель вкладок.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\obj\Debug\Панель вкладок.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\obj\Debug\Панель вкладок.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\obj\Debug\Панель_вкладок.Form1.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\obj\Debug\Панель_вкладок.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\obj\Debug\Панель вкладок.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\obj\Debug\Панель вкладок.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\obj\Debug\Панель вкладок.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Панель вкладок\obj\Debug\Панель вкладок.pdb

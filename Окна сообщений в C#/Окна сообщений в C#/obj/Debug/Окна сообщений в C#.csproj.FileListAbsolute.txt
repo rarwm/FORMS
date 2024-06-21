@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\bin\Debug\Окна сообщений в C#.exe.config
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\bin\Debug\Окна сообщений в C#.exe
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\bin\Debug\Окна сообщений в C#.pdb
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\obj\Debug\Окна сообщений в C#.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\obj\Debug\Окна сообщений в C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\obj\Debug\Окна_сообщений_в_C_.Form1.resources
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\obj\Debug\Окна_сообщений_в_C_.Properties.Resources.resources
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\obj\Debug\Окна сообщений в C#.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\obj\Debug\Окна сообщений в C#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\obj\Debug\Окна сообщений в C#.exe
+C:\Users\User\Desktop\Папки\Studio\Forms\Окна сообщений в C#\Окна сообщений в C#\obj\Debug\Окна сообщений в C#.pdb
